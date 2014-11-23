@@ -1,0 +1,7 @@
+D:\Documents\Projects\MemoryTestMvc\MemoryTestMvc\bin\MemoryTestMvc.dll
+D:\Documents\Projects\MemoryTestMvc\MemoryTestMvc\bin\MemoryTestMvc.pdb
+D:\Documents\Projects\MemoryTestMvc\MemoryTestMvc\bin\EntityFramework.dll
+D:\Documents\Projects\MemoryTestMvc\MemoryTestMvc\bin\EntityFramework.xml
+D:\Documents\Projects\MemoryTestMvc\MemoryTestMvc\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Projects\MemoryTestMvc\MemoryTestMvc\obj\Release\MemoryTestMvc.dll
+D:\Documents\Projects\MemoryTestMvc\MemoryTestMvc\obj\Release\MemoryTestMvc.pdb

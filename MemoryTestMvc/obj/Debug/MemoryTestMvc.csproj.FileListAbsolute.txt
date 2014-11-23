@@ -1,0 +1,21 @@
+c:\users\samoylenko\documents\visual studio 2010\Projects\MemoryTestMvc\MemoryTestMvc\bin\MemoryTestMvc.dll
+c:\users\samoylenko\documents\visual studio 2010\Projects\MemoryTestMvc\MemoryTestMvc\bin\MemoryTestMvc.pdb
+c:\users\samoylenko\documents\visual studio 2010\Projects\MemoryTestMvc\MemoryTestMvc\bin\EntityFramework.dll
+c:\users\samoylenko\documents\visual studio 2010\Projects\MemoryTestMvc\MemoryTestMvc\bin\EntityFramework.xml
+c:\users\samoylenko\documents\visual studio 2010\Projects\MemoryTestMvc\MemoryTestMvc\obj\Debug\ResolveAssemblyReference.cache
+c:\users\samoylenko\documents\visual studio 2010\Projects\MemoryTestMvc\MemoryTestMvc\obj\Debug\MemoryTestMvc.dll
+c:\users\samoylenko\documents\visual studio 2010\Projects\MemoryTestMvc\MemoryTestMvc\obj\Debug\MemoryTestMvc.pdb
+D:\Documents\Projects\MemoryTestMvc\MemoryTestMvc\bin\MemoryTestMvc.dll
+D:\Documents\Projects\MemoryTestMvc\MemoryTestMvc\bin\MemoryTestMvc.pdb
+D:\Documents\Projects\MemoryTestMvc\MemoryTestMvc\bin\EntityFramework.dll
+D:\Documents\Projects\MemoryTestMvc\MemoryTestMvc\bin\EntityFramework.xml
+D:\Documents\Projects\MemoryTestMvc\MemoryTestMvc\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Projects\MemoryTestMvc\MemoryTestMvc\obj\Debug\MemoryTestMvc.dll
+D:\Documents\Projects\MemoryTestMvc\MemoryTestMvc\obj\Debug\MemoryTestMvc.pdb
+D:\Projects\MemoryTestMvc\MemoryTestMvc\bin\MemoryTestMvc.dll
+D:\Projects\MemoryTestMvc\MemoryTestMvc\bin\MemoryTestMvc.pdb
+D:\Projects\MemoryTestMvc\MemoryTestMvc\bin\EntityFramework.dll
+D:\Projects\MemoryTestMvc\MemoryTestMvc\bin\EntityFramework.xml
+D:\Projects\MemoryTestMvc\MemoryTestMvc\obj\Debug\MemoryTestMvc.csprojResolveAssemblyReference.cache
+D:\Projects\MemoryTestMvc\MemoryTestMvc\obj\Debug\MemoryTestMvc.dll
+D:\Projects\MemoryTestMvc\MemoryTestMvc\obj\Debug\MemoryTestMvc.pdb
